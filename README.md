@@ -1,6 +1,9 @@
 
 # Symphony Music Bot 
 
+- TopGG Ranking of 5 Star 
+- Discord Bots - 48 Upvotes 
+
 Symphony is a cutting-edge music bot that takes your Discord sessions to the next level. With its advanced features and customizable options, it promises to provide the best audio experience for its users. 
 
 Written in JavaScript and Discord.js, this bot is highly versatile and offers a wide range of commands and configurations to suit every need.
